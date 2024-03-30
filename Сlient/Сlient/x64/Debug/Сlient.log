@@ -1,0 +1,3 @@
+﻿  Сlient.cpp
+C:\Users\Никита\Desktop\ОС\Lab 4\Сlient\Сlient\Сlient.cpp(12,10): warning C4101: buffer: неиспользованная локальная переменная
+  Сlient.vcxproj -> C:\Users\Никита\Desktop\ОС\Lab 4\Сlient\x64\Debug\Сlient.exe
